@@ -1,0 +1,41 @@
+{
+  "name": "react-ts-starter",
+  "version": "1.0.0",
+  "description": "react ts starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelki/react-ts-starter.git"
+  },
+  "keywords": [
+    "ts",
+    "react"
+  ],
+  "author": "Edward",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Angelki/react-ts-starter/issues"
+  },
+  "homepage": "https://github.com/Angelki/react-ts-starter#readme",
+  "dependencies": {
+    "@types/react": "^16.8.6",
+    "@types/react-dom": "^16.8.2",
+    "@types/react-router-dom": "^4.3.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-router-dom": "^4.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/webpack-env": "^1.13.8",
+    "react-hot-loader": "^4.7.1",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
